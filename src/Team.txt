@@ -1,0 +1,6 @@
+WSU BasketBall Team, 3, 2
+John Smith, 101, 342, 120, 15
+Sarah Johnson, 10, 285, 85, 5
+Michael Davis, 7, 410, 180, 10
+Emily Wilson, 14, 275, 95, 8
+Kevin Brown, 32, 380, 140, 12
